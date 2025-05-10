@@ -1,16 +1,16 @@
 # Pandemic_2019_Predictions
 
 ## Overview
-This project involves analyzing COVID-19 data to create predictive models that assist in early diagnosis or prediction of COVID-19 infections. The project utilizes Python programming language along with essential data science libraries for data analysis, visualization, and modeling.
+This project focuses on analysing COVID-19 data to build predictive models that can aid in the early detection or forecasting of COVID-19 infections. The analysis is carried out using Python, leveraging essential libraries for data manipulation, visualisation, and machine learning
 
 ## Project Structure
-The notebook is structured into clear and distinct sections:
+The notebook is organized into several distinct sections, each dedicated to a specific aspect of the workflow:
 
-1. **Importing Packages**: Necessary Python libraries such as NumPy, pandas, Matplotlib, seaborn, and scikit-learn are imported for data manipulation, visualization, and machine learning tasks.
+1. **Importing Packages**: Relevant Python libraries such as NumPy, pandas, Matplotlib, seaborn, and scikit-learn are imported for performing data analysis, visualisation, and machine learning tasks.
 
-2. **Data Loading**: Data is imported into a pandas DataFrame from an Excel file (`dataset.xlsx`). Ensure this file is located in the same directory as your notebook or adjust the path accordingly.
+2. **Data Loading**: The data is uploaded into a pandas DataFrame from an Excel file (dataset.xlsx). Ensure the file is placed in the same directory as the notebook, or adjust the path to where the file is stored.
 
-3. **Exploratory Data Analysis (EDA)**: Initial analysis to understand dataset features, data types, missing values, and initial observations through visualizations.
+3. **Exploratory Data Analysis (EDA)**: Initial exploration of the dataset is conducted to understand its features, data types, missing values, and other preliminary insights through visualizations.
 
 4. **Data Preprocessing**:
    - Handling missing values
