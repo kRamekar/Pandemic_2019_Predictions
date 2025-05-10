@@ -1,4 +1,4 @@
-# COVID-19 Prediction Project
+# Pandemic_2019_Predictions
 
 ## Overview
 This project involves analyzing COVID-19 data to create predictive models that assist in early diagnosis or prediction of COVID-19 infections. The project utilizes Python programming language along with essential data science libraries for data analysis, visualization, and modeling.
@@ -56,7 +56,7 @@ Feel free to clone, fork, and improve upon this project. Contributions for bette
 
 ---
 
-**Author:** Imamuddin Shaik
+**Author:** Kaustubh Ramekar
 
-**Date:** 10/12/2024
+**Date:** 10/05/2025
 ---
