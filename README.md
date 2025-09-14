@@ -10,7 +10,7 @@ The notebook is organized into several distinct sections, each dedicated to a sp
 
 2. **Data Loading**: The data is uploaded into a pandas DataFrame from an Excel file (dataset.xlsx). Ensure the file is placed in the same directory as the notebook, or adjust the path to where the file is stored.
 
-3. **Exploratory Data Analysis (EDA)**: Initial exploration of the dataset is conducted to understand its features, data types, missing values, and other preliminary insights through visualizations.
+3. **Exploratory Data Analysis (EDA)**: Initial exploration of the dataset is conducted to understand its features, data types, missing values, and other preliminary insights through visualisations.
 
 4. **Data Preprocessing**:
    - Handling missing values
