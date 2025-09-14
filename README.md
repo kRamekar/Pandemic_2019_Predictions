@@ -15,7 +15,7 @@ The notebook is organized into several distinct sections, each dedicated to a sp
 4. **Data Preprocessing**:
    - Handling missing values
    - Encoding categorical variables
-   - Standardizing numerical variables
+   - Standardising numerical variables
 
 5. **Feature Engineering**: Selection and creation of relevant features based on the exploratory analysis.
 
