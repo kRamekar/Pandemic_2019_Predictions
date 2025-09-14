@@ -4,7 +4,7 @@
 This project focuses on analysing COVID-19 data to build predictive models that can aid in the early detection or forecasting of COVID-19 infections. The analysis is carried out using Python, leveraging essential libraries for data manipulation, visualisation, and machine learning and algorithms.
 
 ## Project Structure
-The notebook is organized into several distinct sections, each dedicated to a specific aspect of the workflow:
+The notebook is organised into several distinct sections, each dedicated to a specific aspect of the workflow:
 
 1. **Importing Packages**: Relevant Python libraries such as NumPy, pandas, Matplotlib, seaborn, and scikit-learn are imported for performing data analysis, visualisation, and machine learning tasks.
 
